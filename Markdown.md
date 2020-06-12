@@ -37,7 +37,7 @@ Hay dos maneras de agregar codigo fuente:
 - *En Bloques*, se agrega un bloque de codigo. Usando ` ``` ` una linea antes del codigo y una linea despues de terminar el mismo. Ejemplo:
 ``` md
 
-``` Java
+​``` Java
 	/**
 	 * 	Get MInvoice from Cache
 	 *	@param ctx context
@@ -88,8 +88,10 @@ Quedando asi:
 ### Tablas
 La sintaxis para agregar una tabla es, algo como esto:
 Producto | Descripcion | Precio Unitario
+```
 ---|---|---
 Harina | Harina Precocida | 200.000
+```
 
 El ejemplo anterior quedaria asi:
 
