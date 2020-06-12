@@ -21,7 +21,9 @@ Para escribir los Titulos, simplemente se escribe `#`, para un titulo principal,
 
 ### Imagenes y Links
 - Para agregar una imagen a un documento Markdown se escribe: `![Nombre Imagen](ruta o link con ubicacion de Imagen)`, ejemplo: `![Logo iDempiere](img/idempiere.png)`: 
+
 ![Logo iDempiere](img/idempiere.png)
+
 - Para agregar un Link: `[iDempiere](https://www.idempiere.org/)`, quedaria así: [iDempiere](https://www.idempiere.org/).
 - En caso de que un Link o imagen se repita varias veces en el documento, hay una manera de agregarlos mas facil: Se coloca entre `[]` la palabra que se va a repetir con el link, y al final del documento la palabra entre `[]: link`. Ejemplo:
 `[iDempiere] Es un Software ERP de Codigo Abierto.`
